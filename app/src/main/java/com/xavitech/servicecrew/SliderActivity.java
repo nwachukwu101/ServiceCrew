@@ -18,10 +18,8 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 import com.xavitech.servicecrew.login.LoginActivity;
 import com.xavitech.servicecrew.utils.PrefsManager;
-
 public class SliderActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private MyViewPagerAdapter myViewPagerAdapter;
@@ -37,8 +35,8 @@ public class SliderActivity extends AppCompatActivity {
         // Checking for first time launch - before calling setContentView()
         prefManager = new PrefsManager(this);
         if (!prefManager.isFirstTimeLaunch()) {
-            launchLoginScreen();
-            finish();
+   launchLoginScreen();
+               finish();
         }
 
         // Making notification bar transparent
@@ -74,8 +72,9 @@ public class SliderActivity extends AppCompatActivity {
 
         btnSkip.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View v){
                 launchLoginScreen();
+    
             }
         });
 

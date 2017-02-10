@@ -7,8 +7,7 @@
     android:fitsSystemWindows="true"
     tools:context="com.xavitech.servicecrew.login.LoginActivity">
 
-
-    <include layout="@layout/content_login" />
+   <include layout="@layout/content_login" />
 
 
 </android.support.design.widget.CoordinatorLayout>
