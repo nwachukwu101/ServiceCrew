@@ -5,4 +5,30 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_slider">Welcome</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_desc">We love to maintain your homes and offices!</string>
+
+
+    <string name="slide_2_desc">We take pride in sending you verified service men to get the job done!</string>
+
+    <string name="slide_3_desc">Precise billing!</string>
+
+    <string name="slide_4_desc">100% money back guarantee if not satisfied!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_login">Login</string>
+    <string name="progress_dialog_loading">Loading...</string>
+    <string name="progress_dialog_authenticating_with_firebase">Please wait.</string>
+    <string name="service_crew">Service Crew</string>
+    //facebook app id
+    <string name="facebook_app_id">1223250901128632</string>
+
+    <string name="fb_login_protocol_scheme">fb1223250901128632</string>
+
 </resources>
