@@ -22,5 +22,13 @@
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
-    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login">Login</string>
+    <string name="progress_dialog_loading">Loading...</string>
+    <string name="progress_dialog_authenticating_with_firebase">Please wait.</string>
+    <string name="service_crew">Service Crew</string>
+    //facebook app id
+    <string name="facebook_app_id">1223250901128632</string>
+
+    <string name="fb_login_protocol_scheme">fb1223250901128632</string>
+
 </resources>

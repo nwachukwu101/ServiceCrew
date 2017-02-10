@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886174653541",
+    "project_id": "service-crew"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886174653541:android:61655ec863856150",
+        "android_client_info": {
+          "package_name": "com.xavitech.servicecrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886174653541-9hjto3vineup8jd0e8qivd42hn380cuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANY6S8evf_LSRLIkvxgN4iSofWbvbpKh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
